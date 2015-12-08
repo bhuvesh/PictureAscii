@@ -1,0 +1,56 @@
+MNNMMMNNNNZ0$I+=~~-::::...........::::::::::::-----------~~~~~~====++++?II77$00K88ZNNMMMMMMNMMMNNM##
+NNMMMMMMNNZ07?+=~--::::...........:::::::::::------------~~~~~~~===+++?I7$$$00KKK88ZNNMMMMMNMMM##MNM
+NMMMMNMMMN8$7?+==~~~----:.........:::::::::::-----------~~~~~~~===++?I7$$000KKKKKK88ZNM####MMMMM###M
+MMMNMMMMMN8$7?++?I??????+=-:::::::::::::::::-----------~~~~~~~==++I7$0KK0$$$$$$0KKKK8ZNM#####MM#MM##
+MMMMMMMMNNK$I?+===++?I7IIII?=~-:::::::::::-----------~~~~~~~~==+I7$00007III77$$00KKK8ZNM######M#M#M#
+MMMM#MMNZZ07I+==~~----~==I7$77?=~--:::--------------~~~~~~==+?I$00K0$I??II7$$$00KKKKK8NM#######MM###
+MMMMMNNNZ807?+=~~~--------~+I$00$$I+~~------------~~~~===+?7$00KK07III777$$$000KKKKKK8NM#######M#MM#
+MMMMMMMN88$I?=~~~~~~~=======++I7$$000$7+~-----~~~~~~~==+I$0KKKK00$$00KKKKKKKKKKKKKKKK8NM#######MMMMM
+MMMMMMN8ZK$I+=~~~~==+?I00000000KK0$777$$?=------~~~==+?I$$$$0KKKK888ZZZZZZZ8888KK000K8NM#######MMMMM
+MMMMMNNZ88$I+~---~=+?700K8ZZNN8Z8ZZ8K7I??+~------~~=+?I7777K88ZN$7MNKZNMNNNZZ88K00$0K8NM#######NMMMM
+MMMMMNZZ88$I+~----=?I7KZNN0$0?-#8?00ZZ0I?+=------~~=+I7$77KKZ7=0?K#K+000ZNNNZ8K0$$$0K8NM######MNMNMM
+MMMMMZZZZK0I+~----~?$KZZK+-=7IKZ7+7~?$0$I+=~-:::--~+?7$7I$$K?:.?II$II0?I$NNZ8K0$77$0K8NM######MNNNMM
+MMMMNNNZZ80I+~--:-~=I7$KKI-.=I?II7~~+=+$+=~--::::-~+I$$I?70??~-:=?7II?7K8Z8K0$7777$0KZNM######MNNNMM
+##MMNNNNZ8K7+=--::::-~+I$$7I==?II+?I777?~----:..:-=?7$7?+I?++?II$77$K8KKKK00$77777$08ZM#######MNNNNM
+##MMMNNNN8K$?=~-:::::--~+III$77$7IIII?+=~----:..:-=?77I++++++????I77$$$$$$$7IIIII7$08NM#######MNNNNM
+##MMMMMMN8K$I=~-:::::::-~~=+????????++=~~---::..:-=?77I?++==+++++???III77III???II7$K8N########NNNNNM
+##MMMMMMM8K$I+~-:::::::::--~~===+===~~~----:::..:-=?I7I?+=======++++???????????II7$KZN########NNNNNM
+M###MMMMMZK$7?=--:::..:::::----~~------:::::::..:-=?III?+============+++++++++?I7$08ZM########NNNNMM
+M###MM#MMN8887=~--:::.....:::::-----::::::::::..:-=?III?+==================++??I7$08N########MNNNNMM
+MM#MMMM##N8NNK+=~-:::.......:::::::::..:::::::..:-=?III?++=~~~~~~~~~~~~~~==++?I7$0KZN########MNNNMMN
+MMMMMMM##M88Z8I=~--:::.........:::.....:::::::..:-=?III??+=~~~~~~~~~~~~~==++??I7$08ZM########NNNMMMN
+MMM#MMM#MMN8ZNK+=~--:::................:::::::..:-=?III??+=~~~------~~~===+??I7$0K8N#########NNNMMMN
+MMMM#MM###MNZMNI=~~--:::.............:::::::::..:-=?IIII?+=~~------~~~===+??II7$08ZM########MZNNNMMN
+MMMM#MMM##MNZMNK+=~~--:::...........:::::::::...:-=?I777I?+~~---~~~~~==+++?II7$0K8NM########MZNMMMNN
+MMMM#MMM###NNMMZI+=~---::::........::::---:::...:-~+I77$7I+=~~~~~~~~==+++??I7$0K8ZM#########NZNMMMNN
+MMMMM#MM##MNNMMN$?=~~---:::::::.:::::-----::.. .:-~=?I7$$7?=~~~~~~~==+++??II7$0K8NM#########ZNNMMMNN
+M#MMMMMM###MNNMN0I+=~~---::::::::::----~--::.. ..-~=+?77$$7+=~~~~===+++?III7$0K8ZMM########MZNMMMNNN
+MMMMMMMMM###M8#N8I?+=~~----:::::::---~~~--::.. ..:-~=+I7$0$I+=~~===+++?III7$00K8NMM########NNMMMMNNN
+MMMMMMMMMM###8NMZ7?+=~~~----:::::---~~~----:.. ..:-~=+I7$$07?=====+++??II7$00K8ZNM#########NNMMMMNNN
+MMMMMMMMMM##MZN#NK?++=~~~----::-----~------::...::--=+77$$K7?+===++???II7$$0KK8ZMM########MNNMMMNMNM
+MMMMMMMMMMM##NN#MZI++==~~~------------::-~~--::::--~+I7$$00I?++=++???II7$$00K8ZNM#########MNMMMMNMNM
+MMMMMMMMMMMM#MNMMN0+===~~~----------:::::-~=~----~~+I$000$7I?++++??III77$00KK8ZNM#########NNMMMNMMMM
+MMMMMMMMMNMM#MNNMMZI+===~~~~-------::::::::--~~~=++I$$$$7I???+++??III77$$0KK8ZNMM########MNNMMMNMMMM
+MMMMMMMMMMMM##MN#MN$+====~~~~~~----:::::::::::-~=++??III??++?????IIII7$$00KK8ZNM#########MNMMMMMMMMM
+NMMMMMMNMMMMM#MM#MN8I+====~~~~~~---::::::::::::---~~=+++++++++???III77$00KK88NN##########MMMMMMMMMMM
+NMMMMMMMMMMMMMMM#MNNK+====~~~~~~~---::::::::::------~==++=++++???II77$000KK8ZNM##########MMMMMM#MMMM
+NNMMMMMMMMMMMMMNMMNNZ$+====~~~~~~~----::::::::-~~--:-==+++++++???II7$$000KK8ZM##########MM###M##MMMM
+NNMMMMMMMMMMMMMM##MMN8I+====~~~~~~~----:::--~-::-~~=+++++++?????II77$000KK8ZN#########M#MM##M###M#MM
+MNM#MNNMMMNMMMMM##MMNZK?==~~~~~~~~~~~~--~+?II???=?IIIII?????IIII777$$000K8ZNM#########MMM##M###Z008M
+MMNMMMNZMMMMMMM#MM#MNZZ$+==~~~~~~~~~==+?7$$$$7777$$$$$$$$$$$$7777$$$000KK8ZM##########MMM#MM#M$+++?K
+MMMM#MMMNNMMMMM#MMMMMNZ87+==~~~~~~~=+I7$08+=++?I777777$0000KK0$$$$$000KK8ZM###########MM##M##$=~~=I0
+#MMMM#MNMMNMMMMM##M#MNZ8KI+==~~~~~~~~~=??I=:::..------~=?$88K00$$$$000K8ZN###########MMM#MM#Z=~--?IK
+M#MMM##MNNNMMMMM##MMMMN8K0I+=~~~~~~~~~~==+?=---:-:..::::-~+7000000000KK8N############M###M##?~--=7$8
+M#M#MM##MNNNMMMMM#M#MMN8KK$?+=~~~~~~~~~++=+++~~~-:..::..::-~=?70000KKK8ZM##########MM####M#0~~-~?00N
+Z###MMM##MNNNNNNNNMMMMNZ8807?+=~~~~~~~~=?++==++=~-::::....::--~=?$KK88ZNNM###M######MM##MM#+~--=?KKM
+ZN#M#NMMM#MMMMMMMMMMMMMZ880$7?+=~~~~~~~=+I?+-+???+=~::......::-~~=+$8ZNMNMM#MK0#MN#M#####MM=~-~=I08N
+N8##MMM####MMMMMMMMMMMMNZ80$7I?+~~---~~~=+II?+????+?+~:......::--~~=?0NMMMM##M0M#ZMMM#####8=~-~=I08Z
+ZZM##MNM#####MMMMMMMMMMMZK0$$7I?=~~-----~~=?II7777I???=~-:::::::--~~=+?0NMMM###MMMMMNNM###K=~~~+I$0K
+ZZN#MMMM##########MMMMMN8KK0$$7I?=~~-------~~+?I7777?~~~=+=~~--------~~=+$ZMMM##MMMMMMMM##8=~~=+?7$K
+NNN#MMMMM##########MMMNN800$$$$II?+~----------~~=+++~--~~~=??+=~~-------~~+78MMMMMMMN8KN#MZ=~~==?I70
+NMN#MMMMM######M###MNNNZK00$$7$III?+~~----------~~~~----:-~=+II+=~--::::---~=IKNNMMMMMNM#MN+=~==+?7K
+MMM#MMMMM#####M####MNNNZK00$$$$III??+=~~------~~~~~----:.:-~=+II?+=~-::::::--~=IKZNNMMM###M7=~==+?70
+NM#MMNNMMM#########MNNZZK000$$7III???+=~~~~~~~~~~==~-:..:--~~=+I77?=~-::::::---~=?0ZNMM##MM0===++?70
+MM#MMNMM#M###M###M#MNNN8K0000$7III????++===~~=======-:.:::--~~~=?I7I+~-:::::::---~=?0ZM###M8====+?70
+###MNNMM##M##MM###MNMNN8KK00$$77II???++++++====+++++~:::::::---~=+I7I+~-:::::::---~=+I0N##MZ====++?7
+MM#MMMM###MM#####MMNMNNZ8KK00$77II???+++++++++????=---:::::::::-~=+?I$I+~::..:::---~=+?I0N#N?====+?I
