@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 		freopen(argv[2],"w",stdout);
 	    
 	    imshow("input",input);
-	  
+
 	    Mat scaled;
 	  	
 	  	//Assuming row size to be 100 characters and calculating the resize ratio
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	}
 	else
 	{
-		cout<<"Please enter path of Image\n";
+		cout<<"Please enter path of Image and the output file name\n";
 	}
 
 
