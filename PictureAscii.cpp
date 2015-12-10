@@ -5,9 +5,10 @@
 using namespace cv;
 using namespace std;
 
+
 //Character set for the ASCII Art in decreasing order of brightness, can be tuned for better results
 string coding = " .:-~=+?I7$0K8ZNM#";
-
+int charwid = 100;
 int main(int argc, char** argv)
 {
 	if (argc>=3)
@@ -15,17 +16,23 @@ int main(int argc, char** argv)
 		//Reading grayscale image
 		Mat input = imread(argv[1],IMREAD_GRAYSCALE);
 
+		
 		freopen(argv[2],"w",stdout);
 	    
 	    imshow("input",input);
-
+	  
 	    Mat scaled;
+
+	    if (argc>=4)
+	    {
+	    	charwid = atoi(argv[3]);
+	    }
 	  	
 	  	//Assuming row size to be 100 characters and calculating the resize ratio
-	    double factor = (100.0/(double)input.cols);
+	    double factor = (charwid/(double)input.cols);
 	  
 	  	//Resizing the image, CV_INTER_AREA is used as it is generally shrinkage
-	    resize(input, scaled, Size(),factor,factor*0.75,CV_INTER_AREA);
+	    resize(input, scaled, Size(),factor,factor*0.50,CV_INTER_AREA);
 
 	    imshow("resized",scaled);
 	  
@@ -56,7 +63,7 @@ int main(int argc, char** argv)
 	}
 	else
 	{
-		cout<<"Please enter path of Image and the output file name\n";
+		cout<<"Please enter path of Image\n";
 	}
 
 
