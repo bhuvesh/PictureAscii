@@ -28,13 +28,11 @@ int main(int argc, char** argv)
 	    	charwid = atoi(argv[3]);
 	    }
 	  	
-	  	//Assuming row size to be 100 characters and calculating the resize ratio
+	  	//Assuming row size to be charwidth characters and calculating the resize ratio
 	    double factor = (charwid/(double)input.cols);
 	  
 	  	//Resizing the image, CV_INTER_AREA is used as it is generally shrinkage
 	    resize(input, scaled, Size(),factor,factor*0.50,CV_INTER_AREA);
-
-	    imshow("resized",scaled);
 	  
 	    int codesize = coding.size();
 	   
